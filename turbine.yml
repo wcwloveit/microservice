@@ -1,5 +1,5 @@
 turbine:
-  appConfig: orderapi,orderweb,orderwap
+  appConfig: goodsapi,goodsweb
   aggregator:
     clusterConfig: default
   clusterNameExpression: new String("default")
